@@ -1,5 +1,5 @@
 
-# Game Using AI
+# ROCK PAPER SCISSORS GAME
 
 # Team-Members
 1.18PA1A05H2-Yagnam Jaya Surekha
