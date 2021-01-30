@@ -4,7 +4,7 @@
 # Team-Members
 1.18PA1A05H2-Yagnam Jaya Surekha
 
-2.18PA1A05F4- Sykam Hema
+2.18PA1A05F4- Sykam Hem
 
 # Objective 
   Main objective is to Play Game.  
